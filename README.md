@@ -3,9 +3,7 @@
 
 
 ## Badges:
-[![HoloPin Badge](https://github.com/aumii01codes/aumii01codes/assets/116259393/43c708bb-1332-4480-b3d5-cc6a96b1a255)](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
-[![Hacktober 2023 registered](https://github.com/aumii01codes/aumii01codes/assets/116259393/061329ef-4add-499a-8068-dd0702e58e5a)](https://assets.holopin.io/hf2023levels/level0-silver-0-0-0.webp)
-[![DigitalOcean Smiley](https://github.com/aumii01codes/aumii01codes/assets/116259393/2457bd8e-8c0a-4ece-ad63-a6df86468a0f)](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19)
+[Link to holopin badges](https://www.holopin.io/@aumii01codes#badges)
 
 
 ## 🌐 Socials:
