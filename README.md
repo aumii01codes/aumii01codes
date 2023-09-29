@@ -4,8 +4,6 @@
 
 ## Badges:
 [Link to holopin badges](https://www.holopin.io/@aumii01codes#badges)
-<a href="https://www.holopin.io/@aumii01codes#badges" target="_blank">Link to holopin badges</a>
-
 
 
 ## 🌐 Socials:
