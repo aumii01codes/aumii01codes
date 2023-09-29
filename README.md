@@ -2,6 +2,10 @@
 🔭 I’m currently working on improving my skill in CSS<br>🌱 I’m currently learning PHP, JS, Python<br>💬 Ask me about<br>⚡ Fun fact: Learning everything together because of academic syllabus<br>How to contact me: saumili.work@gmail.com
 
 
+## Badges:
+[Hacktober 2023 registered](https://assets.holopin.io/hf2023levels/level0-silver-0-0-0.webp)
+[DigitalOcean Smiley](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saumilidutta/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/aumiidutta) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/aumii_coder) 
 
