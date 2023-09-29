@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skill in CSS<br>🌱 I’m currently learning PHP, JS, Python<br>💬 Ask me about<br>⚡ Fun fact: Learning everything together because of academic syllabus<br>How to contact me: saumili.work@gmail.com
+🔭 I’m currently working on improving my skill in CSS<br>🌱 I’m currently learning PHP, JS, Python<br><!--💬 Ask me about<br>-->⚡ Fun fact: Learning everything together because of academic syllabus<br>How to contact me: saumili.work@gmail.com
 
 
 ## Badges:
