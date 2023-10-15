@@ -3,7 +3,7 @@
 
 
 ## Badges:
-[Link to holopin badges](https://www.holopin.io/@aumii01codes#badges)
+[Link to holopin badges](https://www.holopin.io/@aumii01codes#badges) <br>
 [Link to visit my forest planted on behalf of Hacktoberfest](https://tree-nation.com/trees/view/5267987)
 
 ## 🌐 Socials:
