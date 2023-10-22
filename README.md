@@ -2,9 +2,9 @@
 🔭 I’m currently working on improving my skill in CSS<br>🌱 I’m currently learning PHP, JS, Python<br><!--💬 Ask me about<br>-->⚡ Fun fact: Learning everything together because of academic syllabus<br>How to contact me: saumili.work@gmail.com
 
 
-## Badges:
-[Link to holopin badges](https://www.holopin.io/@aumii01codes#badges) <br>
+## Hacktoberfest[S10] 2023:
 [Link to visit my forest planted on behalf of Hacktoberfest](https://tree-nation.com/trees/view/5267987)
+[![board](https://github.com/aumii01codes/aumii01codes/assets/116259393/c784fca8-3194-4b5c-ac4d-01ed0627ec6a)](https://www.holopin.io/@aumii01codes#)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumilidutta/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aumiidutta) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aumii_coder) 
