@@ -4,7 +4,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my skill in CSS<br>🌱 I’m currently learning PHP, JS, Python<br><!--💬 Ask me about<br>-->⚡ Fun fact: Learning everything together because of academic syllabus<br>How to contact me: saumili.work@gmail.com
+🔭 I’m currently working on improving my skill in CSS<br>
+🌱 I’m currently learning PHP, JS, Python<br>
+<!--⚡ Fun fact: <br> -->
+How to contact me: saumili.work@gmail.com
 
 
 ## 🌐 Socials:
@@ -29,15 +32,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aumii01codes&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aumii01codes&icon=3&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
