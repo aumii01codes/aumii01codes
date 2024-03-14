@@ -4,8 +4,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my skill in CSS<br>
-🌱 I’m currently learning PHP, JS, Python<br>
+🔭 I’m currently working on improving prompt designing skill.<br>
+🌱 I’m currently learning advanced Python<br>
 <!--⚡ Fun fact: <br> -->
 How to contact me: saumili.work@gmail.com
 
